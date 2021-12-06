@@ -1,2 +1,2 @@
 # Credit-card-Clustering
-Used Machine Learning clustering algorithm to fit a data of 9000 credit card customers into a K-means clustering model and derive inferences.
+Used K-Means clustering algorithm in Machine Learning to create a model that fits a data of 9000 Credit Card customers, plot charts depicting the relationship between variables  and draw valid inferences.
